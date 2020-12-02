@@ -1,0 +1,9 @@
+{
+  "name": "test/app",
+  "description" : "description",
+  "autoload": {
+    "psr-4": {
+      "Test\\": "app/"
+    }
+  }
+}
